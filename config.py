@@ -1,9 +1,9 @@
-mail_pass = "cb6WMQvuyKAgLpd38hwt"
-username = "6113-10.05.03@mail.ru"
-imap_server = "imap.mail.ru"
+mail_pass = "" # ключ почтовой системы
+username = "" # почтовый адресс
+imap_server = "imap.mail.ru" # сервер почтовой системы
 
-bot_key = "6561097655:AAEzdEPQpMNWF8m7VVrOGbPuMEpz7vCy6dw"
-chat_id = "-1001902231920"
+bot_key = "" # Ключ для бота
+chat_id = "" # Id чата для бота
 
 send_attach = True
 
